@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66270787184",
+    "project_id": "anga-2fc54",
+    "storage_bucket": "anga-2fc54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66270787184:android:f4b0f008ee835417e966b5",
+        "android_client_info": {
+          "package_name": "com.example.anga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66270787184-6ncf669jcj8o4a6srbe6f77brnl4ggqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD476Q1NmALvZ1VQvMyKV8Ju7DMAtMNKwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66270787184-6ncf669jcj8o4a6srbe6f77brnl4ggqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

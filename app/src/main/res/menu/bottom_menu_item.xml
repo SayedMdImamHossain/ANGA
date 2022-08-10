@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/bottom_home"
+        android:title="@string/Home" />
+
+    <item
+        android:id="@+id/menu_esports"
+        android:icon="@drawable/bottom_esports"
+        android:title="@string/ESports" />
+
+    <item
+        android:id="@+id/menu_games"
+        android:icon="@drawable/bottom_games"
+        android:title="@string/Games" />
+
+</menu>

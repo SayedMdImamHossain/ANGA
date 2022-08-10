@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.anga">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/anga"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/anga"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ANGA"
+        tools:targetApi="31">
+        <activity
+            android:name=".calender.WeekViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".calender.EventEditActivity"
+            android:exported="true" />
+        <activity
+            android:name=".calender.CALENDER_MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Tournaments.VALORANT.HIGHLIGHT_VALORANT"
+            android:exported="true" />
+        <activity
+            android:name=".Tournaments.VALORANT.NEWS_VALORANT"
+            android:exported="true" />
+        <activity
+            android:name=".Tournaments.VALORANT.UPCOMING_VALORANT"
+            android:exported="true" />
+        <activity
+            android:name=".Tournaments.VALORANT.ONGOING_VALORANT"
+            android:exported="true" />
+        <activity
+            android:name=".GAMES.TICTACTOE.tictactoe_MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GAMES.TICTACTOE.TwoNameActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GAMES.TICTACTOE.SplashActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GAMES.TICTACTOE.SettingsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GAMES.TICTACTOE.SceneActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GAMES.TICTACTOE.NameActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GAMES.TICTACTOE.ChooseActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LOADING"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".logsign.Register"
+            android:exported="true" />
+        <activity
+            android:name=".logsign.PROFILE"
+            android:exported="true" />
+        <activity
+            android:name=".logsign.Login"
+            android:exported="true" />
+        <activity
+            android:name=".logsign.EditProfile"
+            android:exported="true" />
+        <activity
+            android:name=".Onboarding.Onboarding"
+            android:exported="true" />
+        <activity
+            android:name=".home_cards.Favourite_teams"
+            android:exported="true" />
+        <activity
+            android:name=".home_cards.Games_information"
+            android:exported="true" />
+        <activity
+            android:name=".home_cards.Calender_schedule"
+            android:exported="true" />
+        <activity
+            android:name=".home_cards.Highlights"
+            android:exported="true" />
+        <activity
+            android:name=".bottomnavigation.navigation_support_bottom"
+            android:exported="true" />
+        <activity
+            android:name=".bottomnavigation.BottomNavigationActivity"
+            android:exported="true"
+            android:label="@string/title_activity_bottom_navigation" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

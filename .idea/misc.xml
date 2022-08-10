@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/drawable-v24/back.xml" value="0.107" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/drawable/ic_person_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/drawable/input_bg.xml" value="0.1305" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/drawable/search_edt.xml" value="0.1425" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_calender_main.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_calender_schedule.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_choose.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_dota2.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_edit_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_event_edit.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_favourite_teams.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_games_information.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_highlight_valorant.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_highlights.xml" value="0.25" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_leagueoflegends.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_loading.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_name.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_navigation_support_bottom.xml" value="0.22" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_news_valorant.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_onboarding.xml" value="0.17721518987341772" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_ongoing_valorant.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_readable_bottom.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_scene.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_support_onboarding.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_tictactoe_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_two_name.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_upcoming_valorant.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_valorant.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/activity_week_view.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/calendar_cell.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/dialog_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/dialog_layout_exit.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/event_cell.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_bottom_chat.xml" value="0.18" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_bottom_esports.xml" value="0.15" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_bottom_games.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_bottom_home.xml" value="0.25" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_bottom_more.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_bottom_story.xml" value="0.1953125" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_d_o_t_a_2.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_dota2.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_highlight1.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_l_e_a_g_u_e_o_f_l_e_g_e_n_d_s.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_leagueoflegends.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_news__esports.xml" value="0.25" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_notifications.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_ongoing__tournaments.xml" value="0.25" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_upcoming__tournaments.xml" value="0.22" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_v_a_l_o_r_a_n_t.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/fragment_valorant_game.xml" value="0.22" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/onboarding_slider.xml" value="0.18584070796460178" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/spinner_item.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/layout/test_test.xml" value="0.25" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/menu/bottom_menu_item.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/menu/bottom_nav_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/smf83/AndroidStudioProjects/ANGA/app/src/main/res/xml/tabs.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
